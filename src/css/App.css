@@ -1,0 +1,15 @@
+body {
+    --accz-main: #0097B2;
+    --accz-sub: #03a8c5;
+    --accz-prim: #0CC0DF;
+    --accz-sec:#41BDBD;
+    --accz-ter: #4FD1D1;
+    --accz-quad:#E5FFFF; 
+    font-family: 'Fira Sans', sans-serif;   
+    overflow: hidden;
+}
+
+.app_body {
+    display: flex;
+    height: 100vh;
+}
